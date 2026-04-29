@@ -1,0 +1,6 @@
+jupyterlab
+numpy
+scipy
+matplotlib
+seaborn
+PyWavelets
