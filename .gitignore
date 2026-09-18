@@ -1,1 +1,6 @@
 *.png
+
+*.pyc
+*/__MACOSX/
+/__MACOSX/
+*/*/__MACOSX/
